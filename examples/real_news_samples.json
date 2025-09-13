@@ -1,0 +1,16 @@
+"""
+Sample real news examples for demonstration purposes.
+"""
+
+[
+    "Stock markets closed mixed today as investors await the Federal Reserve's decision on interest rates scheduled for next week",
+    "Research published in Nature Medicine shows moderate coffee consumption may have protective effects against certain cardiovascular diseases",
+    "Climate scientists report that global temperatures continue to rise, with 2024 on track to be among the warmest years on record",
+    "New archaeological findings in Egypt provide insights into daily life during the reign of Pharaoh Tutankhamun",
+    "The European Union announces new regulations for artificial intelligence development and deployment across member nations",
+    "Study from Stanford University indicates that regular exercise can improve cognitive function in older adults",
+    "International Space Station crew successfully completes spacewalk to upgrade solar panel systems",
+    "Economic data shows inflation rates have stabilized in major developed economies following recent monetary policy adjustments",
+    "Researchers at MIT develop new battery technology that could improve electric vehicle range and charging speed",
+    "United Nations climate summit concludes with agreements on renewable energy targets and emissions reduction commitments"
+]

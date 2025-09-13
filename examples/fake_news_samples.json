@@ -1,0 +1,16 @@
+"""
+Sample fake news examples for demonstration purposes.
+"""
+
+[
+    "Scientists discover that drinking coffee can make you immortal, new study reveals shocking truth doctors don't want you to know",
+    "Breaking: Aliens confirmed to have built the pyramids, NASA finally releases classified documents after decades of cover-up", 
+    "New research proves that vaccines contain microchips for mind control, government whistleblower exposes terrifying agenda",
+    "This one weird trick will cure all diseases - doctors hate this simple method discovered by local mom",
+    "Shocking: 5G towers are actually mind control devices designed to manipulate your thoughts and emotions",
+    "Local man discovers anti-aging secret that makes him look 20 years younger in just one week - dermatologists furious",
+    "Government tries to hide this shocking truth about water fluoridation - what they don't want you to know will amaze you",
+    "Miracle cure for cancer found in your kitchen - pharmaceutical companies trying to suppress this natural remedy",
+    "Scientists shocked: Earth is actually flat and NASA has been lying to us for decades, leaked documents reveal",
+    "Breaking news: Time traveler from 2050 reveals what really happens in the future - you won't believe prediction #7"
+]
