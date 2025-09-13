@@ -4,7 +4,8 @@ Configuration and constants for the misinformation detection platform.
 
 import os
 from typing import Dict, List, Optional
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
+
 
 class Settings(BaseSettings):
     """Application settings with environment variable support."""
